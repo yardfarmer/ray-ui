@@ -1,0 +1,17 @@
+{
+  "name": "ray-dialog",
+  "version": "0.0.1-0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "rax": "^0.3.4",
+    "rax-view": "^0.3.4",
+    "rax-text": "^0.3.4",
+    "universal-env": "^0.3.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
